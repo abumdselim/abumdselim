@@ -4,7 +4,7 @@
 
 **Abu Md. Selim**
 
-Founder & Software Architect â€” [Intactic](https://intactic.net) Â· Chittagong
+Software architect. Running [Intactic](https://intactic.net) out of Chittagong.
 
 <br>
 
@@ -12,30 +12,28 @@ Founder & Software Architect â€” [Intactic](https://intactic.net) Â· Chit
 
 ---
 
-I build software that endures. Founder of **[Intactic](https://intactic.net)** â€” a specialized engineering firm designing resilient digital infrastructure, high-concurrency systems, and operational platforms for enterprises that require dependability at scale.
-
-Good software does not clamor for attention. It simply works â€” quietly, reliably, indefinitely.
+I build software for businesses that need things to actually work. At [Intactic](https://intactic.net), we design infrastructure, operational systems, and custom platforms â€” built carefully, meant to last.
 
 <br>
 
-**What we build**
+**Work**
 
-Custom software & cloud systems Â· Intelligent automation & applied AI Â· Enterprise ERPs & operational cores Â· Digital products & transaction engines
-
-<br>
-
-**Proprietary builds**
-
-| Project | Description | Status |
-|---|---|---|
-| [Pdfing Pro](https://pdfing.pro.bd) | 100+ privacy-first PDF tools, fully local â€” files never leave the browser | Live |
-| [Intin AI](https://intin.dev) | Agentic AI & LLM developer workspace, built for serious work on any device | In development |
+Web platforms & cloud infrastructure &nbsp;Â·&nbsp; Automation & applied AI &nbsp;Â·&nbsp; ERPs & internal tooling &nbsp;Â·&nbsp; Digital products & payment systems
 
 <br>
 
-**Discipline**
+**Builds**
 
-Architecture built backwards from operational realities. Low latency, lean memory, deterministic state. Interfaces with zero extraneous noise. Foundational computer science, rigorously maintained.
+| Project | |
+|---|---|
+| [Pdfing Pro](https://pdfing.pro.bd) | 100+ PDF tools that run entirely in the browser. Files never leave your device. |
+| [Intin AI](https://intin.dev) | An agentic AI workspace built for serious development work, from any device. |
+
+<br>
+
+**Vision**
+
+Software should be invisible â€” fast, steady, and out of the way. The goal has always been systems that hold up under pressure, scale without drama, and don't need constant tending. Less noise, more substance.
 
 <br>
 
@@ -45,9 +43,14 @@ Architecture built backwards from operational realities. Low latency, lean memor
 
 <br>
 
-[![Website](https://img.shields.io/badge/selim.im-000000?style=flat-square&logo=safari&logoColor=white)](https://selim.im)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabumdselim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mishu.exists)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abumdselim&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&theme=default#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abumdselim&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&theme=dark#gh-dark-mode-only)
+
+<br>
+
+[![Website](https://img.shields.io/badge/selim.im-000?style=flat-square&logo=safari&logoColor=white)](https://selim.im)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabumdselim)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mishu.exists)&nbsp;
 [![Email](https://img.shields.io/badge/selim@intactic.net-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:selim@intactic.net)
 
 <br>
