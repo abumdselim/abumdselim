@@ -12,19 +12,19 @@ Software architect. Running [Intactic](https://intactic.net) out of Chittagong.
 
 ---
 
-I build software for businesses that need things to actually work. At [Intactic](https://intactic.net), we design infrastructure, operational systems, and custom platforms — built carefully, meant to last.
+I work at the intersection of software engineering and operational design. At [Intactic](https://intactic.net), we build the digital infrastructure businesses depend on — custom platforms, cloud systems, and internal tooling constructed with structural integrity and quiet speed. The work is deliberate from the first line.
 
 <br>
 
 **Work**
 
-Web platforms & cloud infrastructure · Automation & applied AI · ERPs & internal tooling · Digital products & payment systems
+Backend systems & cloud infrastructure · Intelligent automation & applied AI · Enterprise ERPs & internal operational tooling · Digital products & payment platforms
 
 <br>
 
 **Vision**
 
-Software should be invisible — fast, steady, and out of the way. The goal has always been systems that hold up under pressure, scale without drama, and don't need constant tending. Less noise, more substance.
+The best software disappears into the workflow — fast, reliable, and invisible. Every system we build starts from the operational reality of the business, not from the convenience of the framework. We model clean data architectures, eliminate unnecessary abstraction, and ship code that performs without needing attention. Less ceremony, more craft.
 
 <br>
 
@@ -41,10 +41,10 @@ Software should be invisible — fast, steady, and out of the way. The goal has 
 
 <br>
 
-[![Website](https://img.shields.io/badge/selim.im-000?style=flat-square&logo=safari&logoColor=white)](https://selim.im)&nbsp;
+[![Website](https://img.shields.io/badge/selim.im-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4=&logoColor=white)](https://selim.im)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabumdselim)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mishu.exists)&nbsp;
-[![Email](https://img.shields.io/badge/selim@intactic.net-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:selim@intactic.net)
+[![Email](https://img.shields.io/badge/selim@intactic.net-333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDRoMTZjMS4xIDAgMiAuOSAyIDJ2MTJjMCAxLjEtLjkgMi0yIDJINGMtMS4xIDAtMi0uOS0yLTJWNmMwLTEuMS45LTIgMi0yeiIvPjxwb2x5bGluZSBwb2ludHM9IjIyLDYgMTIsMTMgMiw2Ii8+PC9zdmc+&logoColor=white)](mailto:selim@intactic.net)
 
 <br>
 
