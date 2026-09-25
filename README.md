@@ -18,16 +18,7 @@ I build software for businesses that need things to actually work. At [Intactic]
 
 **Work**
 
-Web platforms & cloud infrastructure &nbsp;·&nbsp; Automation & applied AI &nbsp;·&nbsp; ERPs & internal tooling &nbsp;·&nbsp; Digital products & payment systems
-
-<br>
-
-**Builds**
-
-| Project | |
-|---|---|
-| [Pdfing Pro](https://pdfing.pro.bd) | 100+ PDF tools that run entirely in the browser. Files never leave your device. |
-| [Intin AI](https://intin.dev) | An agentic AI workspace built for serious development work, from any device. |
+Web platforms & cloud infrastructure · Automation & applied AI · ERPs & internal tooling · Digital products & payment systems
 
 <br>
 
