@@ -12,13 +12,13 @@ Software architect. Running [Intactic](https://intactic.net) out of Chittagong.
 
 ---
 
-I build software for businesses that need things to actually work. At [Intactic](https://intactic.net), we design infrastructure, operational systems, and custom platforms â€” built carefully, meant to last.
+I build software for businesses that need things to actually work. At [Intactic](https://intactic.net), we design infrastructure, operational systems, and custom platforms — built carefully, meant to last.
 
 <br>
 
 **Work**
 
-Web platforms & cloud infrastructure &nbsp;Â·&nbsp; Automation & applied AI &nbsp;Â·&nbsp; ERPs & internal tooling &nbsp;Â·&nbsp; Digital products & payment systems
+Web platforms & cloud infrastructure &nbsp;·&nbsp; Automation & applied AI &nbsp;·&nbsp; ERPs & internal tooling &nbsp;·&nbsp; Digital products & payment systems
 
 <br>
 
@@ -33,7 +33,7 @@ Web platforms & cloud infrastructure &nbsp;Â·&nbsp; Automation & applied AI &n
 
 **Vision**
 
-Software should be invisible â€” fast, steady, and out of the way. The goal has always been systems that hold up under pressure, scale without drama, and don't need constant tending. Less noise, more substance.
+Software should be invisible — fast, steady, and out of the way. The goal has always been systems that hold up under pressure, scale without drama, and don't need constant tending. Less noise, more substance.
 
 <br>
 
@@ -43,8 +43,10 @@ Software should be invisible â€” fast, steady, and out of the way. The goal
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abumdselim&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&theme=default#gh-light-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abumdselim&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&theme=dark#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abumdselim&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&theme=dark&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=abumdselim&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&theme=default&bg_color=00000000" alt="GitHub Stats">
+</picture>
 
 <br>
 
